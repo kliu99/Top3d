@@ -96,7 +96,6 @@ end
 clf; display_3D(xPhys);
 end
 
-
 % === GENERATE ELEMENT STIFFNESS MATRIX ===
 function [KE] = lk_H8(nu)
 A = [32 6 -8 6 -6 4 3 -6 -10 3 -3 -3 -4 -8;
