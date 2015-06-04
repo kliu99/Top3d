@@ -177,7 +177,9 @@ end
 % === ----------------------------------------------------------------- ===
 % === The code is intended for educational purposes, and the details    ===
 % === and extensions can be found in the paper:                         ===
-% === '' ''                                                             ===
+% === K. Liu and A. Tovar, "An efficient 3D topology optimization code  ===
+% === written in Matlab", Struct Multidisc Optim, 50(6): 1175-1196, 2014, =
+% === doi:10.1007/s00158-014-1107-x                                     ===
 % === ----------------------------------------------------------------- ===
 % === The code as well as an uncorrected version of the paper can be    ===
 % === downloaded from the website: http://www.top3dapp.com/             ===
