@@ -6,4 +6,4 @@ Save the program [top3d.m](top3d.m) and start MATLAB in the same directory. The 
 `top3d(30,10,2,0.5,3.0,1.2)`
 
 ## Tutorials
-For more information, tutorials, show cases, please visit us at http://top3dapp.com
+For more information, tutorials, show cases, please visit us at https://top3d.app
